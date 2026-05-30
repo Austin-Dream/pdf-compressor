@@ -1,0 +1,6 @@
+@echo off
+echo 正在安装依赖（仅首次运行较慢）...
+pip install streamlit PyMuPDF Pillow -q
+echo 启动批量 PDF 压缩工具...
+streamlit run batch_pdf_compressor.py
+pause
