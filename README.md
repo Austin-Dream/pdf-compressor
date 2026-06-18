@@ -6,3 +6,6 @@
 
 1. 安装 Python 3.8+
 2. 双击 `start_batch.bat` 或在终端执行：
+使用链接
+
+https://austin-dream-pdf-compres.streamlit.app/
